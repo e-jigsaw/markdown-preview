@@ -41,6 +41,11 @@
       "default": true,
       "description": "Open the preview in a split pane. If disabled, the preview is opened in a new tab in the same pane."
     },
+    "openPreviewInSplitPaneDirection": {
+      "type": "string",
+      "default": "right",
+      "description": "Direction of split pane when open the preview."
+    },
     "grammars": {
       "type": "array",
       "default": [
